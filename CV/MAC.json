@@ -9,7 +9,11 @@
       "name": "Jorge Joaquín ",
       "surnames": "Barbeito Mejía ",
       "title": "licenciado en matemáticas y física ",
-      "description": "Diseñador y desarrollador web frontend junior. Docente con 20 años de experiencia.\nAhora utilizo mis conocimientos y experiencia para crear sitios web modernos con un experiencia de usuario altamente atractiva.\nBusco no sólo brindar mis conocimientos, sino además deseo seguir aprendiendo otros lenguajes y frameworks."
+      "description": "Diseñador y desarrollador web frontend junior. Docente con 20 años de experiencia.\nAhora utilizo mis conocimientos y experiencia para crear sitios web modernos con un experiencia de usuario altamente atractiva.\nBusco no sólo brindar mis conocimientos, sino además deseo seguir aprendiendo otros lenguajes y frameworks.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/03/e609110f-bc31-4cd6-b872-068dea14594c_img_20210606_174220.jpg",
+        "alt": "IMG_20210606_174220.jpg"
+      }
     }
   },
   "knowledge": {
