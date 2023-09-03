@@ -54,6 +54,12 @@
       },
       {
         "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Python",
           "type": "technology"
         }
