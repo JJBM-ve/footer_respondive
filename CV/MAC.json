@@ -56,6 +56,12 @@
     "contact": {
       "contactMails": [
         "jjcomprador@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "3022324952",
+          "countryCode": "+57"
+        }
       ]
     },
     "preferences": {
