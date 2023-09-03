@@ -143,11 +143,19 @@
         "type": "technology"
       },
       {
+        "name": "Django",
+        "type": "technology"
+      },
+      {
         "name": "HTML",
         "type": "technology"
       },
       {
         "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
         "type": "technology"
       }
     ],
