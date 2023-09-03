@@ -137,6 +137,20 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gustaría un empleo con grandes oportunidades de crecimiento interdisciplinario junto a un verdadero equipo laboral. Que me permita además de cumplir con la gestión y espectativas de la empresa lograr una empatía agradable al mismo tiempo de mi crecimiento como profesional como diseñador y desarrollador web frontend."
   }
 }
