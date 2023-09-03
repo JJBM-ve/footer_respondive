@@ -1,0 +1,98 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jorge Joaquín ",
+      "surnames": "Barbeito Mejía ",
+      "title": "licenciado en matemáticas y física ",
+      "description": "Diseñador y desarrollador web frontend junior. Docente con 20 años de experiencia.\nAhora utilizo mis conocimientos y experiencia para crear sitios web modernos con un experiencia de usuario altamente atractiva.\nBusco no sólo brindar mis conocimientos, sino además deseo seguir aprendiendo otros lenguajes y frameworks."
+    }
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "jjcomprador@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría un empleo con grandes oportunidades de crecimiento interdisciplinario junto a un verdadero equipo laboral. Que me permita además de cumplir con la gestión y espectativas de la empresa lograr una empatía agradable al mismo tiempo de mi crecimiento como profesional como diseñador y desarrollador web frontend."
+  }
+}
