@@ -17,6 +17,12 @@
     }
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Limited working proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
