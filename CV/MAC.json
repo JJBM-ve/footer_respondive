@@ -13,6 +13,10 @@
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/03/e609110f-bc31-4cd6-b872-068dea14594c_img_20210606_174220.jpg",
         "alt": "IMG_20210606_174220.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJo5QVrjqkFY4RQKPy7wSaDZo)",
+        "country": "Colombia"
       }
     }
   },
